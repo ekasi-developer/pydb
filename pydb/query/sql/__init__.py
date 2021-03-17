@@ -1,6 +1,5 @@
-from table import Table
+from pydb.query.sql.table import Table
 
 
 class Sql:
     pass
-

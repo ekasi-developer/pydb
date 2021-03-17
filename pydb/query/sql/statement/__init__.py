@@ -1,2 +1,2 @@
-class Sql:
+class Statement:
     pass
